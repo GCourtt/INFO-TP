@@ -1,1 +1,2 @@
 c:\users\gcourt\documents\visual studio 2015\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\gcourt\Documents\GitHub\INFO-TP\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config

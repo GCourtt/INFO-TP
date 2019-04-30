@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Pokemon
 {
-    class Program
+    class Pokemon
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        private int pv;
+        private int pui;
+        private int vit;
+        private string type;
     }
 }
